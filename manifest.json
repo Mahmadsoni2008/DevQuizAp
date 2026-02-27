@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "DevQuiz Application",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "DevQuiz",
+  "start_url": "https://mahmadsoni2008.github.io/DevQuizAp/",
+  "theme_color": "#ffffff",
+  "id": "com.mahmadsoni.devquiz",
+  "description": "Барнома барои санҷиши дониш аз соҳаи барномасозӣ ва технология",
+  "lang": "tg"
+}
